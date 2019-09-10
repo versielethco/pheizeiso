@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://quufeurit.davejarred.com/sitemap.xml
